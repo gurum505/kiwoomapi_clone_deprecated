@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "pandas": "^0.0.3"
+  }
+}
