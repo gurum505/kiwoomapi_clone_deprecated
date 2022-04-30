@@ -3,17 +3,19 @@
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
-__pycache__/
+.__pycache__/
 *.py[cod]
 *$py.class
 
 # C extensions
 *.so
 
+#.vscode
+
 #kiwoom
-KhOpenApiTest_2.71/
-KhOpenApiTest_VER 1.1_20141118/
-KOASampleCS_ver_1_2/
+.KhOpenApiTest_2.71/
+.KhOpenApiTest_VER 1.1_20141118/
+.KOASampleCS_ver_1_2/
 
 # Distribution / packaging
 .Python
